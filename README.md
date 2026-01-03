@@ -2,7 +2,7 @@
 
 **Student Name:** Ramandeep Singh Katoch
 **Student ID:**bitsom_ba_25071229
-**Email:** randeepsinghkatoch17@gmail.com
+**Email:** ramandeepsinghkatoch17@gmail.com
 **Date:** 2 jan 2026
 
 ## Project Overview
