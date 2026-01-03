@@ -1,0 +1,22 @@
+Data Quality Report - FlexiMart
+
+Customers:
+- Records processed: 25
+- Duplicates removed: 1
+- Missing emails handled: 5
+- Records loaded: 24
+
+Products:
+- Records processed: 20
+- Missing prices filled: 3
+- Missing stock handled: 1
+- Records loaded: 20
+
+Sales:
+- Records processed: 40
+- Duplicates removed: 1
+- Invalid records dropped: 5
+- Records loaded: 34
+
+
+ETL Status: SUCCESS
